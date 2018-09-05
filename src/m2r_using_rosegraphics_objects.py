@@ -40,11 +40,11 @@ Authors: David Mutchler, Dave Fisher, Vibha Alangar, Mark Hays, Amanda Stouder,
 #                rectangle, Rose Window
 #
 #          -- Write the names of three METHODs that Circle objects have:
-
+#            clone, detatch from, move by
 #
 #          -- Write the names of three INSTANCE VARIABLEs that Circle
 #             objects have:
-#
+#               radius, center, fill
 #
 #     f. What does a RoseWindow RENDER method do?
 #
