@@ -47,7 +47,7 @@ Authors: David Mutchler, Dave Fisher, Vibha Alangar, Mark Hays, Amanda Stouder,
 #               radius, center, fill
 #
 #     f. What does a RoseWindow RENDER method do?
-#
+#           how long it takes the window to appear
 #
 #     g. When is a RoseWindow close_on_mouse_click method call
 #        necessary?  Why?
